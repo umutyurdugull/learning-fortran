@@ -1,4 +1,6 @@
-# Fortran Development with MinGW (Windows)
+## 0. Brief History of Fortran
+
+Fortran (short for **Formula Translation**) is one of the oldest high-level programming languages, originally developed by IBM in the **1950s**. It was designed for **scientific and engineering computations**, making complex numerical calculations much easier than using assembly language. Over the decades, Fortran has evolved through versions such as **Fortran IV, Fortran 77, Fortran 90, Fortran 2003, and Fortran 2018**, adding modern features while remaining popular in **high-performance computing (HPC)**, simulations, and numerical modeling.
 
 ## 1. Install MinGW
 
