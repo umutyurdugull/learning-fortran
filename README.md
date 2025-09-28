@@ -33,13 +33,16 @@ cd C:\path\to\your\fortran\folder
 ``` 
 
 2. Compile 
-``` gfortran hello.f90 -o hello.exe
+```
+gfortran hello.f90 -o hello.exe
 ```
 
 3. This produces hello.exe. Then run:
-``` .\hello.exe
+```
+ .\hello.exe
 ``` 
 
 4. If everything is correct, it should print: 
-``` Hello, World! 
+```
+ Hello, World! 
 ``` 
